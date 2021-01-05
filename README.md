@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Try [my game](https://kemdole.github.io/game-every-30-secs/) if you feel bored. Have fun! (PC browser game)
 <!--
 **Kemdole/Kemdole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
